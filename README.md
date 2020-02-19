@@ -1,4 +1,4 @@
-## Welcome to My World
+## You better get a lawyer or get us out of this chicken coop!
 
 You can use the [editor on fucking GitHub](https://github.com/weiming0311/helloworld2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
